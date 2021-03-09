@@ -1,0 +1,16 @@
+{
+  "name": "pixu-blog",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "start": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "flavor-scss": "^1.10.0",
+    "gridsome": "^0.7.23",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.0.0"
+  }
+}
